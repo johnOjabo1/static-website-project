@@ -1,4 +1,4 @@
-#DOCUMENTATION ON Static Website Hosting WITH AWS S3
+#Documentation On Static Website Hosting WITH AWS S3
 #STEP 1
 Clone the github repository containing the website files either using your CLI or by running the command "git clone 'the link of the repo'"
 #STEP 2
